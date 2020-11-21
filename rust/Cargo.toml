@@ -1,0 +1,11 @@
+[package]
+name = "library-rs"
+version = "0.1.0"
+
+[dependencies]
+
+[build-dependencies]
+cbindgen = "0.15.0"
+
+[lib]
+crate-type= ["staticlib"]
