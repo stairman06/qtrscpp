@@ -1,4 +1,4 @@
-# QtRsCPP
+# QtRsCpp
 
 Have you ever wanted to use Qt and Rust together? Well now you can, sort of, using the joy of CMake.
 
